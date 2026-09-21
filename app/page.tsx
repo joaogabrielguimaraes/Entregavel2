@@ -42,7 +42,6 @@ export default function Home() {
         <Button />
         <Button2 ligado={ligado} onClick={Ligar} />
       </div> */}
-     
       {/* <div>
         <Form3 />
       </div> */}

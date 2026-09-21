@@ -19,7 +19,6 @@ export default function Tag10() {
         border: "1px solid #333333",
       }}
     >
-      {/* BARRA DAS TABS */}
       <div
         style={{
           display: "flex",
